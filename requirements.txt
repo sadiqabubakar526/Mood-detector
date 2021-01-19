@@ -1,0 +1,7 @@
+numpy
+tensorflow
+camera
+flask
+uwsgi
+flask-cors
+cv2
